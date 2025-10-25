@@ -22,3 +22,6 @@ Built using **Tableau**, this visualization helps investors and analysts underst
 - **Tableau Desktop / Tableau Public**
 - **CSV dataset (Tesla stock data 2020–2025)**
 - **GitHub** for project hosting and documentation
+
+<img width="761" height="371" alt="Tesla Stock Price Dashboard" src="https://github.com/user-attachments/assets/025ce23f-3681-4f7f-99f6-4b8deec2debb" />
+
